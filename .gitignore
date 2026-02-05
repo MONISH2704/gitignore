@@ -1,3 +1,2 @@
-*.log
-/unwanted
-/wanted/c.java
+test.log
+unwanted
